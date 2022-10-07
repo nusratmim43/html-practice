@@ -1,0 +1,18 @@
+h2{
+    color: blue;
+}
+.st{
+    border: 5px outset rgb(40, 143, 0);
+    background-color: lightblue;
+    text-align: center;
+}
+.nd{
+    border: 5px outset rgb(40, 143, 0);
+    background-color: lightblue;
+    text-align: center;
+}
+.rd{
+    border: 5px outset rgb(40, 143, 0);
+    background-color: lightblue;
+    text-align: center;
+}
