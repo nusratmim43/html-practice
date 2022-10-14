@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #4f4f4f4f;
+    color: rgb(20, 20, 19);
+    font-family:arial,helvetica,sans-serif; 
+    font-size: 16px;
+    line-height: 1.6em; 
+    margin: 0px;
+}
+
+.container{
+    width: 80%;
+    margin:auto ;
+}  
+a{
+    text-decoration:none;
+    color:black
+} 
+a:hover{
+    color: red; 
+} 
+a:active{
+    color:green;
+} 
+a:visited{
+    color:violet;
+} 
+.button{
+    background-color: black;
+    color: white;
+    padding:10px;
+    border:none;
+} 
+.button:hover{
+    background-color:red;
+    color:lime;
+}
+.box-1{
+    background-color: #333;
+    color: white;
+    border: 5px solid red; 
+    padding: 20px;
+    margin: 20px;
+}
+.box-1 h1{
+    font-family: Tahoma; 
+    font-weight: 800; 
+    font-style: italic;
+    text-decoration: underline;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    word-spacing: .5em;
+    letter-spacing: 0.2em;
+}
+.box-1 p{
+    text-align: justify;
+} 
+.box-2{
+    border: 1px dotted #333;
+    padding: 20px;
+    margin: 20px;
+}  
+.box-2 h1{
+    text-align: center;
+}
+.box-2 p{
+    padding-top: 20px;
+    text-align: justify;
+    line-height: 1.5em;
+}
+ .catagories{
+    border: 1px solid #333;
+    padding-left: 20px; 
+    margin: 20px;
+    border-radius: 20px;
+ } 
+ .catagories h2{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top:10px;
+    text-decoration:underline; 
+ } 
+ .catagories ul{
+    padding: 20px;
+ }
+ .catagories ul li{
+    border-bottom: 1px dotted ; 
+    list-style:none;
+ } 
+ .my-form{
+    padding: 20px;
+ } 
+ .my-form .form-group{
+    padding-bottom: 15px;
+ }
+ .my-form input[type="text"],.my-form textarea{
+    padding: 8px;
+    width: 100%;
+ }
