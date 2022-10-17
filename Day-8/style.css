@@ -1,0 +1,10 @@
+.container{
+    display: grid;
+}
+.imgclass img {
+    height: 250px;
+    width: 250px;
+    /* text-align: center; */
+    display: block;
+    margin: auto;
+}
